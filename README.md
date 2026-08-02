@@ -1,3 +1,7 @@
+> **This repository has moved.** Its content now lives in the [`blit386/blit386`](https://github.com/blit386/blit386)
+> monorepo, at [`packages/demos`](https://github.com/blit386/blit386/tree/main/packages/demos). Full history is
+> preserved there – this repo stays archived (read-only) so its original commit SHAs and links keep working.
+
 # BLIT386 Demos
 
 Interactive examples for [BLIT386](https://github.com/blit386/blit386/), a palette-first WebGPU retro engine for
